@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "name": "Dr. Daniel Yoshor",
+      "photo": "https://i.ibb.co/FxCDsbS/doc-black.jpg",
+      "degree": "Doctor of Medicine (M.D.) Bachelor of Medicine, Bachelor of Surgery (MBBS/MBChB) Doctor of Osteopathic Medicine (D.O.)",
+      "work": "Tufts Medical Center"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Meeta Singh",
+      "photo": " https://i.ibb.co/VYq0grs/doc-sikh.jpg",
+      "degree": "Doctor of Medicine (M.D.) Bachelor of Medicine, Bachelor of Surgery (MBBS/MBChB) Doctor of Osteopathic Medicine (D.O.)",
+      "work": "University of Kansas Hospital"
+    },
+    {
+      "id": 3,
+      "name": "Dr. Predrag V.",
+      "photo": "https://i.ibb.co/t342zt0/doc-3.jpg",
+      "degree": "Doctor of Medicine (M.D.) Bachelor of Medicine, Bachelor of Surgery (MBBS/MBChB) Doctor of Osteopathic Medicine (D.O.)",
+      "work": "Vanderbilt University Medical Center"
+    },
+    {
+      "id": 4,
+      "name": "Dr. Edward B.",
+      "photo": "https://i.ibb.co/4mX9MkC/doc-4.jpg",
+      "degree": "Doctor of Medicine (M.D.) Bachelor of Medicine, Bachelor of Surgery (MBBS/MBChB) Doctor of Osteopathic Medicine (D.O.)",
+      "work": "Emory University Hospital"
+    },
+    {
+      "id": 5,
+      "name": "Dr. Robert Lee",
+      "photo": "https://i.ibb.co/Ny25fSP/doc-old-2.jpg",
+      "degree": "Doctor of Medicine (M.D.) Bachelor of Medicine, Bachelor of Surgery (MBBS/MBChB) Doctor of Osteopathic Medicine (D.O.)",
+      "work": "Duke University Hospital"
+    },
+    {
+      "id": 6,
+      "name": "Dr. Thomas A. Dennison",
+      "photo": "https://i.ibb.co/8DNp3rG/doc-6.jpg",
+      "degree": "Doctor of Medicine (M.D.) Bachelor of Medicine, Bachelor of Surgery (MBBS/MBChB) Doctor of Osteopathic Medicine (D.O.)",
+      "work": "The Mount Sinai Hospital"
+    },
+    {
+      "id": 7,
+      "name": "Dr. James N. Kimball",
+      "photo": "https://i.ibb.co/9tP3ZHr/doc-old.jpg",
+      "degree": "Doctor of Medicine (M.D.) Bachelor of Medicine, Bachelor of Surgery (MBBS/MBChB) Doctor of Osteopathic Medicine (D.O.)",
+      "work": "Brigham And Women's Hospital"
+    },
+    {
+      "id": 8,
+      "name": "Dr. Glenn T. Konopaske",
+      "photo": "https://i.ibb.co/FxYx7Bm/doc-main.jpg",
+      "degree": "Doctor of Medicine (M.D.) Bachelor of Medicine, Bachelor of Surgery (MBBS/MBChB) Doctor of Osteopathic Medicine (D.O.)",
+      "work": "Northwestern Memorial Hospital"
+    },
+    {
+      "id": 9,
+      "name": "Dr. Lenard A. Adler",
+      "photo": "https://i.ibb.co/C0PNQh1/doc-9.jpg",
+      "degree": "Doctor of Medicine (M.D.) Bachelor of Medicine, Bachelor of Surgery (MBBS/MBChB) Doctor of Osteopathic Medicine (D.O.)",
+      "work": "Mayo Clinic - Phoenix"
+    },
+    {
+      "id": 10,
+      "name": "Dr. Stephen G. Salzbrenner",
+      "photo": "https://i.ibb.co/0fhPSy4/doc-10.jpg",
+      "degree": "Doctor of Medicine (M.D.) Bachelor of Medicine, Bachelor of Surgery (MBBS/MBChB) Doctor of Osteopathic Medicine (D.O.)",
+      "work": "Ronald Reagan UCLA Medical Center"
+    },
+    {
+      "id": 11,
+      "name": "Dr. James A. Adler",
+      "photo": "https://i.ibb.co/McNG2gV/doc-2.jpg",
+      "degree": "Doctor of Medicine (M.D.) Bachelor of Medicine, Bachelor of Surgery (MBBS/MBChB) Doctor of Osteopathic Medicine (D.O.)",
+      "work": "Mayo Clinic - Phoenix"
+    },
+    {
+      "id": 12,
+      "name": "Dr. Russell M.",
+      "photo": "https://i.ibb.co/G0VG3YG/doc-7.jpg",
+      "degree": "Doctor of Medicine (M.D.) Bachelor of Medicine, Bachelor of Surgery (MBBS/MBChB) Doctor of Osteopathic Medicine (D.O.)",
+      "work": "Mayo Clinic - Phoenix"
+    }
+  ]
+  
